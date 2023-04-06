@@ -1,0 +1,3 @@
+APIKEY = 'abc'
+
+print(APIKEY)
